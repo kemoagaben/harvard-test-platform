@@ -1,6 +1,15 @@
 # Harvard Test Platform
 
-Bu proje, ... için geliştirilmiş bir React tabanlı test platformudur.
+Bu proje, eğitim ve değerlendirme amaçlı geliştirilmiş modern bir React tabanlı test platformudur. Kullanıcıların çevrimiçi testler oluşturmasını, yönetmesini ve sonuçları analiz etmesini sağlar.
+
+## Özellikler
+
+- 📝 İnteraktif test oluşturma arayüzü
+- ⏱️ Zamanlayıcı ve süre yönetimi
+- 📊 Otomatik puanlama ve analiz
+- 💾 Test sonuçlarını kaydetme
+- 🎨 Modern ve kullanıcı dostu arayüz
+- 📱 Responsive tasarım
 
 ## Kurulum
 
